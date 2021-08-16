@@ -1,4 +1,3 @@
 # hello-world
-Hello World Trial
+My code about quantitative finance and data science
 
-I am Ellgan. Nice to meet you. 
