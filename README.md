@@ -1,3 +1,3 @@
-# hello-world
-My code about quantitative finance and data science
+# My code
+My python code about quantitative finance, data science and machine learning
 
